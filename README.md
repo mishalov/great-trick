@@ -1,4 +1,4 @@
-HARDEST thin i've done;
+HARDEST thing i've ever done;
 
 5[x => (5-x)] // [5, 4, 3, 2, 1]
 
