@@ -1,4 +1,4 @@
-HARDEST thing i've ever done;
+Extending the Javascript with this syntax:
 
 5[x => (5-x)] // [5, 4, 3, 2, 1]
 
